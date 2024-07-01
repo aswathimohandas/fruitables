@@ -1,0 +1,77 @@
+.navbar-brand{
+    color: rgb(11, 172, 11);
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 30px;
+    font-family: "Playwrite GB S", cursive;
+}
+.collapse{
+    margin-left: 300px;
+}
+.fa-solid{
+    margin-left: 25px;
+    font-size: large;
+}
+.fa-magnifying-glass{
+    margin-left: -300px;
+    
+}
+.d1{
+    height: 550px;
+    background-image: url("./images/ebackground.jpg");
+    background-size: cover;
+    opacity: 0.8;
+    /* border: aliceblue; */
+    /* background-color: whitesmoke; */
+}
+.text1{
+    color:rgb(12, 9, 3);
+    font-size: 30px;
+    font-weight: bold;
+    margin: 100px;
+    margin-left: 60px;
+    z-index: 1;
+}
+.text2{
+    color: orange;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 50px;
+    margin-top: -100px;
+    z-index: 1;
+}
+.d3{
+    height: 50px;
+    width: 140px;
+    background-color: orange;
+    /* margin-left: 100px;
+    margin-top: 150px; */
+    margin: 150px;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+.c1{
+    border-radius: 30px;
+}
+.search{
+    margin-left: 70px;
+    width: 400px;
+}
+.btn1{
+    margin-left: -80px;
+    background-color: greenyellow;
+}
+.card{
+    text-align: center;
+    border-radius: 30px;
+    height: 250px;
+    padding: 10px;
+}
+.p1{
+    color: black;
+    font-weight: 50px;
+}
+.text-reset{
+    text-decoration: none;
+}
